@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 hello file 1!
+=======
+we are testing merge conflict of local repo and central repo!
+>>>>>>> 8869ee0ec0187878f5e15d0ce6c90b81b5b1a8c1
+
+tested successfully !
